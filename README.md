@@ -1,4 +1,4 @@
-# README
+# An Elastic Search and Rails Playground
 
 Some things I'd like to do here:
 
