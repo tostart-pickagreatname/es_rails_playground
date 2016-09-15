@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Some things I'd like to do here:
 
-Things you may want to cover:
+* Use ES as part of a model.
 
-* Ruby version
+* Search ES for attributes of a model.
 
-* System dependencies
+* Aggregate results and format for display.
 
-* Configuration
+* See if a can add ES to an existing model in a reasonable way.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Figure out how to test these things.
